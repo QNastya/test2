@@ -1,9 +1,7 @@
 testing line
-<<<<<<< HEAD
 commit test
 123Add Line
-=======
-
+untesting file
 123
 789.
->>>>>>> c2e3e419efd0f2c0b4e0c066b8c07ebd607891a1
+
